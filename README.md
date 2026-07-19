@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://changethisfile.com/favicon.ico" height="14"/> [ChangeThisFile](https://github.com/aadilr/changethisfile-mcp) - Free file conversion between 690+ formats (documents, images, video, audio, data, fonts, ebooks, archives). Two tools: convert a file (public URL or base64 in → signed download URL out) and list supported routes. Runs real engines (LibreOffice, FFmpeg, Calibre, 7-Zip). Hosted remote streamable-HTTP endpoint, no auth.
 
 
 <br />
